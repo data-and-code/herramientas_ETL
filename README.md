@@ -1,7 +1,6 @@
-# Herramientas-ETL
-Repositorio donde se  guarda todo lo conllevado en la investigación de la herramienta ETL: Tableau Prep Builder.
+# Herramientas ETL: Tableau Prep Builder
 
-- Documentacion: Aquí viene toda la investigación documentada de forma estructurada y con explicación de los ejemplos.
-- Incidencia_delictiva_2020-Ejemplo_Sencillo: Archivo .tff que contiene el flujo del proceso ETL sobre el ejemplo sencillo.
-- Incidencia_delictiva_2015-2020-Ejemplo_Completo: Archivo .tff que contiene el flujo del proceso ETL sobre el ejemplo complejo.
-- Tableau Prep Builder-Presentacion: Presentación de la clase donde se muestra de forma resumida la documentación.
+Investigación teórica sobre el funcionamiento, ventajas y desventajas de dicha herramienta.
+
+- Archivos PDF y presentación de PowerPoint: En estos archivos se encuentran el resultado de la investigación y la presentación usada para presentar dichos resultados. De igual forma, se explican los 2 ejemplos usados para demostrar el funcionamiento de la herramienta.
+- Archivos TFLX: Flujos empaquetados de Tableau Prep Builder usados para demostrar el funcionamiento de la herramienta. Los ejemplos consisten en calcular los *homicidios dolosos​ ocasionados ​por arma de fuego* en México de los años 2015-2020.
